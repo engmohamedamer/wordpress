@@ -1,0 +1,622 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LSVR Lore Theme Toolkit\n"
+"POT-Creation-Date: 2019-07-30 14:47+0200\n"
+"PO-Revision-Date: 2019-07-30 14:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: LSVRthemes\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_n;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../inc/blocks-config.php:11
+msgid "Lore"
+msgstr "Lore"
+
+#: ../inc/blocks-config.php:108
+msgid "Lore CTA Widget"
+msgstr "Lore CTA (widget)"
+
+#: ../inc/blocks-config.php:109
+msgid "Block with title, text and link"
+msgstr "Blok s nadpisom, textom a odkazom"
+
+#: ../inc/blocks-config.php:112 ../inc/blocks-config.php:126
+#: ../inc/blocks-config.php:140 ../inc/blocks-config.php:154
+#: ../inc/blocks-config.php:168 ../inc/blocks-config.php:182
+#: ../inc/blocks-config.php:196 ../inc/blocks-config.php:210
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: ../inc/blocks-config.php:122
+msgid "Lore FAQ"
+msgstr "Lore Najčastejšie Otázky"
+
+#: ../inc/blocks-config.php:123
+msgid "List of FAQ posts"
+msgstr "Zoznam otázok"
+
+#: ../inc/blocks-config.php:136
+msgid "Lore KB Category Widget"
+msgstr "Lore VD Kategória (widget)"
+
+#: ../inc/blocks-config.php:137
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:15
+msgid "KB category with articles"
+msgstr "VD kategória s článkami"
+
+#: ../inc/blocks-config.php:150
+msgid "Lore Knowledge Base"
+msgstr "Lore Vedomostná Databáza"
+
+#: ../inc/blocks-config.php:151
+msgid "Grid of categorized KB articles"
+msgstr "Sekcia s kategorizovanými článkami z VD"
+
+#: ../inc/blocks-config.php:164
+msgid "Lore Posts"
+msgstr "Lore Články"
+
+#: ../inc/blocks-config.php:165
+msgid "List of posts"
+msgstr "Zoznam článkov"
+
+#: ../inc/blocks-config.php:178
+msgid "Lore Sidebar"
+msgstr "Lore Panel"
+
+#: ../inc/blocks-config.php:179
+msgid "Sidebar with widgets"
+msgstr "Panel s widgetmi"
+
+#: ../inc/blocks-config.php:192
+msgid "Lore Sitemap"
+msgstr "Lore Mapa Stránky"
+
+#: ../inc/blocks-config.php:193
+msgid "Custom menu"
+msgstr "Vlastné menu"
+
+#: ../inc/blocks-config.php:206
+msgid "Lore Table of Contents"
+msgstr "Lore Obsah"
+
+#: ../inc/blocks-config.php:207
+msgid "List of anchored headings"
+msgstr "Zoznam odkazov na nadpisy"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:63
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:277
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:238
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:238
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:127
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:158
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:86
+msgid "Title"
+msgstr "Nadpis"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:64
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:327
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:217
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:20
+msgid "CTA"
+msgstr "CTA"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:72
+msgid "Text"
+msgstr "Text"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:73
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:336
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:226
+msgid "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+msgstr "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:81
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:345
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:363
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:309
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:178
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:253
+msgid "More Button Label"
+msgstr "Popisok tlačidla \"viac\""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:82
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:346
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:179
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:236
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:254
+msgid "Learn More"
+msgstr "Viac"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:90
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:187
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:262
+msgid "More Button Link"
+msgstr "URL tlačidla \"viac\""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:91
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:355
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:188
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:245
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:263
+msgid "http://www.example.org"
+msgstr "http://www.example.org"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:98
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:355
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:100
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:372
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:319
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:196
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:271
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:106
+msgid "Unique ID"
+msgstr "Unikátne ID"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:99
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:356
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:101
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:373
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:320
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:197
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:272
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:107
+msgid ""
+"You can use this ID to style this specific element with custom CSS, for "
+"example."
+msgstr "Toto ID môžete použiť napríklad na pridelenie špecifického CSS."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:172
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:173
+msgid "Read More"
+msgstr "Viac"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:192
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:148
+#, php-format
+msgid "in %s"
+msgstr "v %s"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:203
+msgid "Permalink"
+msgstr "Odkaz"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:233
+msgid "There are no FAQ posts."
+msgstr "Žiadne otázky."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:278
+msgid "Latest FAQ"
+msgstr "Najnovšie otázky"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:287
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:62
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:249
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:248
+msgid "Category"
+msgstr "Kategória"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:288
+msgid "Display FAQ posts from a specific category."
+msgstr "Zobraziť iba otázky z konkrétnej kategórie."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:296
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:257
+msgid "Limit"
+msgstr "Počet"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:297
+msgid "How many FAQ posts should be displayed."
+msgstr "Počet otázok."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:298
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:73
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:260
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:259
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:28
+msgid "All"
+msgstr "Všetko"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:307
+msgid "Order"
+msgstr "Poradie"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:308
+msgid "Order of FAQ posts."
+msgstr "Poradie otázok."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:310
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:85
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:272
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:36
+msgid "Default"
+msgstr "Predvolené"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:311
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:86
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:273
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:37
+msgid "By date, newest first"
+msgstr "Podľa dátumu, od najnovšieho"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:312
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:87
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:274
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:38
+msgid "By date, oldest first"
+msgstr "Podľa dátumu, od najstaršieho"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:313
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:88
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:275
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:39
+msgid "By title, ascending"
+msgstr "Podľa názvu, vzostupne"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:314
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:89
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:276
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:40
+msgid "By title, descending"
+msgstr "Podľa názvu, zostupne"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:315
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:90
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:277
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:41
+msgid "Random"
+msgstr "Náhodný výber"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:325
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:287
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:268
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:147
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:177
+msgid "Number of Columns"
+msgstr "Počet stĺpcov"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:326
+msgid "How many columns should be used to display FAQ posts."
+msgstr "Na koľko stĺpcov rozdeliť túto sekciu."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:336
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:289
+msgid "Display Category"
+msgstr "Zobraziť kategóriu"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:337
+msgid "Display FAQ post category."
+msgstr "Zobraziť kategóriu otázky."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:346
+msgid "Link to FAQ post archive. Leave blank to hide."
+msgstr "Odkaz na archív otázok. Ponechajte prázdne pre skrytie odkazu."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:347
+msgid "More FAQ"
+msgstr "Viac otázok"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:63
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:19
+msgid "Choose Knowledge Base category."
+msgstr "Zvoľte kategóriu z VD."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:71
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:258
+msgid "Article Limit"
+msgstr "Počet článkov"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:72
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:26
+msgid "Number of Knowledge Base posts to display."
+msgstr "Počet článkov z VD."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:82
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:269
+msgid "Article Order"
+msgstr "Poradie článkov"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:83
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:33
+msgid "Order of Knowledge Base posts."
+msgstr "Poradie článkov z VD."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:91
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:278
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:42
+msgid "By rating"
+msgstr "Podľa hodnotenia"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:192
+msgid "There are no Knowledge Base categories to display."
+msgstr "Žiadne kategórie z VD."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:239
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:159
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:87
+msgid "Title of this section."
+msgstr "Nadpis sekcie."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:240
+msgid "Selected Topics"
+msgstr "Vybrané témy"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:250
+msgid "Choose the parent category or leave unset to display top categories."
+msgstr ""
+"Zvoľte nadradenú kategóriu alebo ponechajte pre zobrazenie hlavných "
+"kategórií."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:259
+msgid "Number of Knowledge Base posts to display per category."
+msgstr "Počet článkov z VD pre kategóriu."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:270
+msgid "Order of Knowledge Base posts inside category."
+msgstr "Poradie článkov z VD v kategórii."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:288
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:148
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:178
+msgid "How many columns should be used to display this section."
+msgstr "Na koľko stĺpcov rozdeliť túto sekciu."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:298
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:168
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:188
+msgid "Enable Masonry"
+msgstr "Povoliť \"masonry\" zobrazenie"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:299
+msgid ""
+"Display this section using a masonry layout. Please note that this option "
+"can affect the position of CTA."
+msgstr "Zobraziť túto sekciu pomocou \"masonry\" zobrazenia."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:308
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:198
+msgid "CTA Position"
+msgstr "Pozícia CTA"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:309
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:199
+msgid "Set the position of the CTA block."
+msgstr "Zvoľte pozíciu CTA bloku."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:311
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:201
+msgid "Disable"
+msgstr "Zrušiť"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:312
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:202
+msgid "First"
+msgstr "Prvá"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:313
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:203
+msgid "Second"
+msgstr "Druhá"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:314
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:204
+msgid "Third"
+msgstr "Tretia"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:315
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:205
+msgid "Fourth"
+msgstr "Štvrtá"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:316
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:206
+msgid "Last"
+msgstr "Posledná"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:326
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:216
+msgid "CTA Title"
+msgstr "Nadpis CTA"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:335
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:225
+msgid "CTA Text"
+msgstr "Text CTA"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:344
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:354
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:234
+msgid "CTA More Button Label"
+msgstr "Popisok tlačidla \"viac\" pre CTA"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:364
+msgid "Go to Knowledge Base"
+msgstr "Otvoriť vedomostnú databázu"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:192
+msgid "There are no posts"
+msgstr "Žiadne články"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:239
+msgid "Latest Blog Posts"
+msgstr "Najnovšie články"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:249
+msgid "Display posts from a specific category."
+msgstr "Zobraziť články z konkrétnej kategórie."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:258
+msgid "How many posts should be displayed."
+msgstr "Koľko článkov sa má zobraziť."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:269
+msgid "How many columns should be used to display posts."
+msgstr "Na koľko stĺpcov rozdeliť túto sekciu."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:279
+msgid "Display Date"
+msgstr "Zobraziť dátum"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:280
+msgid "Display post date."
+msgstr "Zobraziť dátum článku."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:290
+msgid "Display post category."
+msgstr "Zobraziť kategóriu článku."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:299
+msgid "Display Excerpt"
+msgstr "Zobraziť súhrn"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:300
+msgid "Display post excerpt."
+msgstr "Zobraziť súhrn článku."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:310
+msgid "Link to post archive. Leave blank to hide."
+msgstr "Odkaz na archív článkov. Ponechajte prázdne pre skrytie odkazu."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:311
+msgid "More Posts"
+msgstr "Viac článkov"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:128
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:160
+msgid "Lorem ipsum"
+msgstr "Lorem ipsum"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:136
+msgid "Sidebar"
+msgstr "Panel"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:137
+msgid ""
+"Choose which sidebar will be used to create this section. You can manage "
+"custom sidebars under Customizer / Custom Sidebars and populate them with "
+"widgets under Appearance / Widgets."
+msgstr ""
+"Zvoľte ktorý panel sa použije pre túto sekciu. Panely môžete manažovať pod "
+"Vzhľad / Prispôsobiť / Vlastné panely. Widgety do paneloch môžete pridať pod "
+"Vzhľad / Widgety."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:158
+msgid "Show Borders"
+msgstr "Ohraničiť widgety"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:159
+msgid "Display borders around each widget."
+msgstr "Ohraničiť každý widget."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:169
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:189
+msgid "Display this section using a masonry layout."
+msgstr "Zobraziť túto sekciu pomocou \"masonry\" zobrazenia."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:122
+msgid "Please choose which menu will be used to create this sitemap."
+msgstr "Prosím zvoľte ktoré menu bude použité na vytvorenie tejto sekcie."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:168
+msgid "Menu"
+msgstr "Menu"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:169
+msgid ""
+"Choose which menu will be used to create the sitemap. You can manage menus "
+"under Appearance / Menus."
+msgstr ""
+"Zvoľte menu ktoré bude použité na vytvorenie tejto sekcie. Menu môžete "
+"uravovať pod Zobrazenie / Menu."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:244
+msgid "CTA More Button Link"
+msgstr "URL tlačidla \"viac\" pre CTA"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:58
+msgid "The list of anchors will be generated on the front-end."
+msgstr "Zoznam odkazov bude vygenerovaný pri zobrazení stránky."
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:88
+msgid "Table of Contents"
+msgstr "Obsah"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:96
+msgid "Excluded IDs"
+msgstr "Vylúčené ID"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:97
+msgid ""
+"Headings with these IDs (anchors) will not be displayed in table of "
+"contents. Separate IDs with comma."
+msgstr ""
+"Nadpisy s týmito ID nebudú zobrazené v obsahu. Viaceré ID oddeľte čiarkami."
+
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:14
+msgid "Lore CTA"
+msgstr "Lore CTA"
+
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:15
+msgid "Block with title, text and link."
+msgstr "Blok s nadpisom, textom a odkazom."
+
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:18
+msgid "Title:"
+msgstr "Nadpis:"
+
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:23
+msgid "Text:"
+msgstr "Text:"
+
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:27
+msgid "More Button Label:"
+msgstr "Popisok tlačidla \"viac\":"
+
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:31
+msgid "More Button Link:"
+msgstr "URL tlačidla \"viac\":"
+
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:14
+msgid "Lore KB Category"
+msgstr "Lore Kategória VD"
+
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:18
+msgid "Category:"
+msgstr "Kategória:"
+
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:22
+msgid "None"
+msgstr "----"
+
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:25
+msgid "Article Limit:"
+msgstr "Počet článkov:"
+
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:32
+msgid "Article Order:"
+msgstr "Poradie článkov:"
+
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:191
+msgid "There are no articles"
+msgstr "Žiadne články"
+
+#: ../inc/core-functions.php:58
+#, php-format
+msgid "Custom Sidebar %d"
+msgstr "Vlastný panel %d"
+
+#: ../inc/core-functions.php:77
+msgid "Default Sidebar"
+msgstr "Predvolený panel"
+
+#~ msgid "By Title"
+#~ msgstr "Podľa názvu"

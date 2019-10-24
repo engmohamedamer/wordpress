@@ -1,0 +1,27 @@
+<wpml-config>
+    <admin-texts>
+		<key name="theme_mods_lore">
+			<key name="header_search_filter_label"/>
+			<key name="header_search_input_placeholder"/>
+			<key name="header_search_keywords_label"/>
+			<key name="header_search_keywords"/>
+			<key name="footer_text"/>
+			<key name="lsvr_faq_archive_title"/>
+			<key name="lsvr_kba_archive_title"/>
+			<key name="language_custom1_label"/>
+			<key name="language_custom2_label"/>
+			<key name="language_custom3_label"/>
+			<key name="language_custom4_label"/>
+		</key>
+    </admin-texts>
+	<custom-types>
+		<custom-type translate="1">lsvr_faq</custom-type>
+		<custom-type translate="1">lsvr_kba</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">lsvr_faq_cat</taxonomy>
+		<taxonomy translate="1">lsvr_faq_tag</taxonomy>
+		<taxonomy translate="1">lsvr_kba_cat</taxonomy>
+		<taxonomy translate="1">lsvr_kba_tag</taxonomy>
+	</taxonomies>
+</wpml-config>

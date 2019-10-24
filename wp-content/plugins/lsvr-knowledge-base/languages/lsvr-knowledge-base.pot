@@ -1,0 +1,563 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LSVR Knowledge Base\n"
+"POT-Creation-Date: 2019-07-30 12:19+0200\n"
+"PO-Revision-Date: 2016-05-09 11:16+0200\n"
+"Last-Translator: \n"
+"Language-Team: LSVRthemes\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_n;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../inc/blocks-config.php:45
+msgid "LSVR KB Articles Widget"
+msgstr ""
+
+#: ../inc/blocks-config.php:46
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:17
+msgid "List of KB posts"
+msgstr ""
+
+#: ../inc/blocks-config.php:49 ../inc/blocks-config.php:63
+msgid "Settings"
+msgstr ""
+
+#: ../inc/blocks-config.php:59
+msgid "LSVR Featured KB Article Widget"
+msgstr ""
+
+#: ../inc/blocks-config.php:60
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:17
+msgid "Single KB article"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:14
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:22
+msgid "Knowledge Base"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:15
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:80
+msgid "Article"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:16 ../inc/classes/lsvr-cpt-kba.php:17
+#: ../inc/classes/lsvr-cpt-kba.php:19
+msgid "Add New Article"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:18
+msgid "Edit Article"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:20
+msgid "View Article"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:21
+msgid "Search articles"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:22
+msgid "No articles found"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:23
+msgid "No articles found in trash"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:43 ../inc/classes/lsvr-cpt-kba.php:57
+msgid "Article Categories"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:44
+msgid "Article Category"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:45
+msgid "Search Article Categories"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:46
+msgid "Popular Article Categories"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:47
+msgid "All Article Categories"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:48
+msgid "Parent Article Category"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:49
+msgid "Parent Article Category:"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:50
+msgid "Edit Article Category"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:51
+msgid "Update Article Category"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:52
+msgid "Add New Article Category"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:53
+msgid "New Article Category Name"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:54
+msgid "Separate article categories by comma"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:55
+msgid "Add or remove article categories"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:56
+msgid "Choose from the most used article categories"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:79 ../inc/classes/lsvr-cpt-kba.php:93
+msgid "Article Tags"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:80
+msgid "Article Tag"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:81
+msgid "Search Article Tags"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:82
+msgid "Popular Article Tags"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:83
+msgid "All Article Tags"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:84
+msgid "Parent Article Tag"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:85
+msgid "Parent Article Tag:"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:86
+msgid "Edit Article Tag"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:87
+msgid "Update Article Tag"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:88
+msgid "Add New Article Tag"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:89
+msgid "New Article Tag Name"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:90
+msgid "Separate article tags by comma"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:91
+msgid "Add or remove article tags"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:92
+msgid "Choose from the most used article tags"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:133
+msgid "Article Settings"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:141
+msgid "Local Attachments"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:142
+msgid "Upload new or select existing files."
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:143
+msgid "Select Local Attachments"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:150
+msgid "External Attachments"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:151
+msgid "Insert URL of external attachment."
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:158
+msgid "Related Articles"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:159
+msgid "Display related Knowledge Base articles at the bottom of the article detail page. List of IDs or slugs separated by comma."
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:178
+msgid "Category Icon"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:179
+msgid "Name of the icon. Please refer to the documentation to learn more about using the icons."
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:192
+msgid "Rating"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:212
+#, php-format
+msgid "Likes: %d"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:215
+#, php-format
+msgid "Dislikes: %d"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-kba.php:218
+#, php-format
+msgid "Sum: %d"
+msgstr ""
+
+#: ../inc/classes/lsvr-permalink-settings-knowledge-base.php:12
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:16
+msgid "LSVR Knowledge Base"
+msgstr ""
+
+#: ../inc/classes/lsvr-permalink-settings-knowledge-base.php:17
+msgid "Archive Slug"
+msgstr ""
+
+#: ../inc/classes/lsvr-permalink-settings-knowledge-base.php:22
+msgid "Category Slug"
+msgstr ""
+
+#: ../inc/classes/lsvr-permalink-settings-knowledge-base.php:27
+msgid "Tag Slug"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:69
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:73
+msgid "Title"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:70
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:74
+msgid "Title of this section."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:71
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:75
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:22
+msgid "Latest KB Articles"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:81
+msgid "Choose article to display."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:90
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:32
+msgid "Display Excerpt"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:99
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:132
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:37
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:59
+msgid "Display Date"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:108
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:150
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:42
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:69
+msgid "Display Rating"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:117
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:141
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:47
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:64
+msgid "Display Category"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:126
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:159
+msgid "More Link Label"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:127
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:160
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:53
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:75
+msgid "Link to Knowledge Base post archive. Leave blank to hide."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:128
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:161
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:55
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:77
+msgid "More Articles"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:136
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:169
+msgid "Unique ID"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-featured-widget.php:137
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:170
+msgid "You can use this ID to style this specific element with custom CSS, for example."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:84
+msgid "Category"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:85
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:26
+msgid "Display Knowledge Base posts only from a certain category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:93
+msgid "Limit"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:94
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:33
+msgid "Number of Knowledge Base posts to display."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:95
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:35
+msgid "All"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:104
+msgid "Order"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:105
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:40
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:26
+msgid "Order of Knowledge Base posts."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:107
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:43
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:29
+msgid "Default"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:108
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:44
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:30
+msgid "By date, newest first"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:109
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:45
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:31
+msgid "By date, oldest first"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:110
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:46
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:32
+msgid "By title, ascending"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:111
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:47
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:33
+msgid "By title, descending"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:112
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:48
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:34
+msgid "By rating"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:113
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:29
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:49
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:35
+msgid "Random"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-kba-list-widget.php:123
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:54
+msgid "Display Icon"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-categories.php:16
+msgid "LSVR KB Categories"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-categories.php:17
+msgid "List of Knowledge Base categories"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-categories.php:20
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:20
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:20
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:20
+msgid "Title:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-categories.php:22
+msgid "Knowledge Base Categories"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:16
+msgid "LSVR Featured KB Article"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:22
+msgid "Featured KB Article"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:25
+msgid "Article:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:26
+msgid "Choose KB article to display."
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:52
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:74
+msgid "More Button Label:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:128
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:233
+#, php-format
+msgid "in %s"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:143
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:152
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:248
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:257
+#, php-format
+msgid "%d likes"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:156
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:261
+#, php-format
+msgid "%d dislikes"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-featured.php:193
+msgid "There are no Knowledge Base articles"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:16
+msgid "LSVR KB Articles"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:25
+msgid "Category:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:29
+msgid "None"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:32
+msgid "Limit:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:39
+msgid "Order:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-list.php:305
+msgid "There are no articles"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:17
+msgid "List of categorized KB posts"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:25
+msgid "Articles Order:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:40
+msgid "Display Articles"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:45
+msgid "Display Count"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-kba-tree.php:68
+msgid "No categories"
+msgstr ""
+
+#: ../inc/core-functions.php:110
+#, php-format
+msgid "%s TB"
+msgstr ""
+
+#: ../inc/core-functions.php:114
+#, php-format
+msgid "%s GB"
+msgstr ""
+
+#: ../inc/core-functions.php:118
+#, php-format
+msgid "%s MB"
+msgstr ""
+
+#: ../inc/core-functions.php:122
+#, php-format
+msgid "%s kB"
+msgstr ""
+
+#: ../inc/core-functions.php:126
+#, php-format
+msgid "%s B"
+msgstr ""
+
+#: ../inc/core-functions.php:155
+#, php-format
+msgid "%dk"
+msgstr ""
+
+#: ../inc/core-functions.php:155
+#, php-format
+msgid "%dM"
+msgstr ""

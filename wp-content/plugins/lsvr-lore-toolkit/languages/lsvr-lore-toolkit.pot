@@ -1,0 +1,601 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LSVR Lore Theme Toolkit\n"
+"POT-Creation-Date: 2019-07-30 14:47+0200\n"
+"PO-Revision-Date: 2016-05-09 11:16+0200\n"
+"Last-Translator: \n"
+"Language-Team: LSVRthemes\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_n;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../inc/blocks-config.php:11
+msgid "Lore"
+msgstr ""
+
+#: ../inc/blocks-config.php:108
+msgid "Lore CTA Widget"
+msgstr ""
+
+#: ../inc/blocks-config.php:109
+msgid "Block with title, text and link"
+msgstr ""
+
+#: ../inc/blocks-config.php:112 ../inc/blocks-config.php:126
+#: ../inc/blocks-config.php:140 ../inc/blocks-config.php:154
+#: ../inc/blocks-config.php:168 ../inc/blocks-config.php:182
+#: ../inc/blocks-config.php:196 ../inc/blocks-config.php:210
+msgid "Settings"
+msgstr ""
+
+#: ../inc/blocks-config.php:122
+msgid "Lore FAQ"
+msgstr ""
+
+#: ../inc/blocks-config.php:123
+msgid "List of FAQ posts"
+msgstr ""
+
+#: ../inc/blocks-config.php:136
+msgid "Lore KB Category Widget"
+msgstr ""
+
+#: ../inc/blocks-config.php:137
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:15
+msgid "KB category with articles"
+msgstr ""
+
+#: ../inc/blocks-config.php:150
+msgid "Lore Knowledge Base"
+msgstr ""
+
+#: ../inc/blocks-config.php:151
+msgid "Grid of categorized KB articles"
+msgstr ""
+
+#: ../inc/blocks-config.php:164
+msgid "Lore Posts"
+msgstr ""
+
+#: ../inc/blocks-config.php:165
+msgid "List of posts"
+msgstr ""
+
+#: ../inc/blocks-config.php:178
+msgid "Lore Sidebar"
+msgstr ""
+
+#: ../inc/blocks-config.php:179
+msgid "Sidebar with widgets"
+msgstr ""
+
+#: ../inc/blocks-config.php:192
+msgid "Lore Sitemap"
+msgstr ""
+
+#: ../inc/blocks-config.php:193
+msgid "Custom menu"
+msgstr ""
+
+#: ../inc/blocks-config.php:206
+msgid "Lore Table of Contents"
+msgstr ""
+
+#: ../inc/blocks-config.php:207
+msgid "List of anchored headings"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:63
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:277
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:238
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:238
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:127
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:158
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:86
+msgid "Title"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:64
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:327
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:217
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:20
+msgid "CTA"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:72
+msgid "Text"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:73
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:336
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:226
+msgid "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:81
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:345
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:363
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:309
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:178
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:253
+msgid "More Button Label"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:82
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:346
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:179
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:236
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:254
+msgid "Learn More"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:90
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:187
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:262
+msgid "More Button Link"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:91
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:355
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:188
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:245
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:263
+msgid "http://www.example.org"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:98
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:355
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:100
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:372
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:319
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:196
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:271
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:106
+msgid "Unique ID"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-cta-widget.php:99
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:356
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:101
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:373
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:320
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:197
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:272
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:107
+msgid "You can use this ID to style this specific element with custom CSS, for example."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:172
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:173
+msgid "Read More"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:192
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:148
+#, php-format
+msgid "in %s"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:203
+msgid "Permalink"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:233
+msgid "There are no FAQ posts."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:278
+msgid "Latest FAQ"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:287
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:62
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:249
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:248
+msgid "Category"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:288
+msgid "Display FAQ posts from a specific category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:296
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:257
+msgid "Limit"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:297
+msgid "How many FAQ posts should be displayed."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:298
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:73
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:260
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:259
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:28
+msgid "All"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:307
+msgid "Order"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:308
+msgid "Order of FAQ posts."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:310
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:85
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:272
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:36
+msgid "Default"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:311
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:86
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:273
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:37
+msgid "By date, newest first"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:312
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:87
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:274
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:38
+msgid "By date, oldest first"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:313
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:88
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:275
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:39
+msgid "By title, ascending"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:314
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:89
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:276
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:40
+msgid "By title, descending"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:315
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:90
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:277
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:41
+msgid "Random"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:325
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:287
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:268
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:147
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:177
+msgid "Number of Columns"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:326
+msgid "How many columns should be used to display FAQ posts."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:336
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:289
+msgid "Display Category"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:337
+msgid "Display FAQ post category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:346
+msgid "Link to FAQ post archive. Leave blank to hide."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-faq.php:347
+msgid "More FAQ"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:63
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:19
+msgid "Choose Knowledge Base category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:71
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:258
+msgid "Article Limit"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:72
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:26
+msgid "Number of Knowledge Base posts to display."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:82
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:269
+msgid "Article Order"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:83
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:33
+msgid "Order of Knowledge Base posts."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-kba-category-widget.php:91
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:278
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:42
+msgid "By rating"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:192
+msgid "There are no Knowledge Base categories to display."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:239
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:159
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:87
+msgid "Title of this section."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:240
+msgid "Selected Topics"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:250
+msgid "Choose the parent category or leave unset to display top categories."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:259
+msgid "Number of Knowledge Base posts to display per category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:270
+msgid "Order of Knowledge Base posts inside category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:288
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:148
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:178
+msgid "How many columns should be used to display this section."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:298
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:168
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:188
+msgid "Enable Masonry"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:299
+msgid "Display this section using a masonry layout. Please note that this option can affect the position of CTA."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:308
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:198
+msgid "CTA Position"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:309
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:199
+msgid "Set the position of the CTA block."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:311
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:201
+msgid "Disable"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:312
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:202
+msgid "First"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:313
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:203
+msgid "Second"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:314
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:204
+msgid "Third"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:315
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:205
+msgid "Fourth"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:316
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:206
+msgid "Last"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:326
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:216
+msgid "CTA Title"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:335
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:225
+msgid "CTA Text"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:344
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:354
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:234
+msgid "CTA More Button Label"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-knowledge-base.php:364
+msgid "Go to Knowledge Base"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:192
+msgid "There are no posts"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:239
+msgid "Latest Blog Posts"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:249
+msgid "Display posts from a specific category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:258
+msgid "How many posts should be displayed."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:269
+msgid "How many columns should be used to display posts."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:279
+msgid "Display Date"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:280
+msgid "Display post date."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:290
+msgid "Display post category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:299
+msgid "Display Excerpt"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:300
+msgid "Display post excerpt."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:310
+msgid "Link to post archive. Leave blank to hide."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-posts.php:311
+msgid "More Posts"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:128
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:160
+msgid "Lorem ipsum"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:136
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:137
+msgid "Choose which sidebar will be used to create this section. You can manage custom sidebars under Customizer / Custom Sidebars and populate them with widgets under Appearance / Widgets."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:158
+msgid "Show Borders"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:159
+msgid "Display borders around each widget."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sidebar.php:169
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:189
+msgid "Display this section using a masonry layout."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:122
+msgid "Please choose which menu will be used to create this sitemap."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:168
+msgid "Menu"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:169
+msgid "Choose which menu will be used to create the sitemap. You can manage menus under Appearance / Menus."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-sitemap.php:244
+msgid "CTA More Button Link"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:58
+msgid "The list of anchors will be generated on the front-end."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:88
+msgid "Table of Contents"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:96
+msgid "Excluded IDs"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-lore-toc.php:97
+msgid "Headings with these IDs (anchors) will not be displayed in table of contents. Separate IDs with comma."
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:14
+msgid "Lore CTA"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:15
+msgid "Block with title, text and link."
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:18
+msgid "Title:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:23
+msgid "Text:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:27
+msgid "More Button Label:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-lore-cta.php:31
+msgid "More Button Link:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:14
+msgid "Lore KB Category"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:18
+msgid "Category:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:22
+msgid "None"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:25
+msgid "Article Limit:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:32
+msgid "Article Order:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-lore-kba-category.php:191
+msgid "There are no articles"
+msgstr ""
+
+#: ../inc/core-functions.php:58
+#, php-format
+msgid "Custom Sidebar %d"
+msgstr ""
+
+#: ../inc/core-functions.php:77
+msgid "Default Sidebar"
+msgstr ""

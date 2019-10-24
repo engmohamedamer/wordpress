@@ -1,0 +1,397 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LSVR FAQ\n"
+"POT-Creation-Date: 2019-07-29 11:43+0200\n"
+"PO-Revision-Date: 2016-05-09 11:16+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_n;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../inc/blocks-config.php:45
+msgid "LSVR FAQ Widget"
+msgstr ""
+
+#: ../inc/blocks-config.php:46
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:17
+msgid "List of FAQ posts"
+msgstr ""
+
+#: ../inc/blocks-config.php:49 ../inc/blocks-config.php:63
+msgid "Settings"
+msgstr ""
+
+#: ../inc/blocks-config.php:59
+msgid "LSVR Featured FAQ Widget"
+msgstr ""
+
+#: ../inc/blocks-config.php:60
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:17
+msgid "Single FAQ post"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:14 ../inc/classes/lsvr-cpt-faq.php:15
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-featured-widget.php:76
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:22
+msgid "FAQ"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:16 ../inc/classes/lsvr-cpt-faq.php:17
+#: ../inc/classes/lsvr-cpt-faq.php:19
+msgid "Add New FAQ"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:18
+msgid "Edit FAQ"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:20
+msgid "View FAQ"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:21 ../inc/classes/lsvr-cpt-faq.php:81
+msgid "Search FAQ"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:22
+msgid "No FAQ found"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:23
+msgid "No FAQ found in trash"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:43 ../inc/classes/lsvr-cpt-faq.php:57
+#: ../inc/classes/widgets/lsvr-widget-faq-categories.php:22
+msgid "FAQ Categories"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:44
+msgid "FAQ Category"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:45
+msgid "Search FAQ Categories"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:46
+msgid "Popular FAQ Categories"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:47
+msgid "All FAQ Categories"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:48
+msgid "Parent FAQ Category"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:49
+msgid "Parent FAQ Category:"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:50
+msgid "Edit FAQ Category"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:51
+msgid "Update FAQ Category"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:52
+msgid "Add New FAQ Category"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:53
+msgid "New FAQ Category Name"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:54
+msgid "Separate FAQ categories by comma"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:55
+msgid "Add or remove FAQ categories"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:56
+msgid "Choose from the most used FAQ categories"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:79 ../inc/classes/lsvr-cpt-faq.php:93
+msgid "FAQ Tags"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:80
+msgid "FAQ Tag"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:82
+msgid "Popular FAQ Tags"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:83
+msgid "All FAQ Tags"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:84
+msgid "Parent FAQ Tag"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:85
+msgid "Parent FAQ Tag:"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:86
+msgid "Edit FAQ Tag"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:87
+msgid "Update FAQ Tag"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:88
+msgid "Add New FAQ Tag"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:89
+msgid "New FAQ Tag Name"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:90
+msgid "Separate FAQ tags by comma"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:91
+msgid "Add or remove FAQ tags"
+msgstr ""
+
+#: ../inc/classes/lsvr-cpt-faq.php:92
+msgid "Choose from the most used FAQ tags"
+msgstr ""
+
+#: ../inc/classes/lsvr-permalink-settings-faq.php:12
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:16
+msgid "LSVR FAQ"
+msgstr ""
+
+#: ../inc/classes/lsvr-permalink-settings-faq.php:17
+msgid "Archive Slug"
+msgstr ""
+
+#: ../inc/classes/lsvr-permalink-settings-faq.php:22
+msgid "Category Slug"
+msgstr ""
+
+#: ../inc/classes/lsvr-permalink-settings-faq.php:27
+msgid "Tag Slug"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-featured-widget.php:65
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:67
+msgid "Title"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-featured-widget.php:66
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:68
+msgid "Title of this section."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-featured-widget.php:67
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:22
+msgid "Featured FAQ"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-featured-widget.php:77
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:26
+msgid "Choose FAQ to display."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-featured-widget.php:86
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:116
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:38
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:53
+msgid "Display Category"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-featured-widget.php:95
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:32
+msgid "Display Content"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-featured-widget.php:96
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:33
+msgid "If this FAQ post has an excerpt, it will be displayed instead."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-featured-widget.php:105
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:125
+msgid "More Link Label"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-featured-widget.php:106
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:126
+msgid "Link to FAQ archive. Leave blank to hide."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-featured-widget.php:107
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:127
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:46
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:61
+msgid "More FAQ"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-featured-widget.php:115
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:135
+msgid "Unique ID"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-featured-widget.php:116
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:136
+msgid "You can use this ID to style this specific element with custom CSS, for example."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:69
+msgid "Latest FAQ"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:78
+msgid "Category"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:79
+msgid "Display FAQ posts from a specific category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:87
+msgid "Limit"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:88
+msgid "How many FAQ posts to display."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:89
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:35
+msgid "All"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:98
+msgid "Order"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:99
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:40
+msgid "Order of FAQ posts."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:101
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:43
+msgid "Default"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:102
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:44
+msgid "By date, newest first"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:103
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:45
+msgid "By date, oldest first"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:104
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:46
+msgid "By title, ascending"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:105
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:47
+msgid "By title, descending"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-faq-list-widget.php:106
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:29
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:48
+msgid "Random"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-categories.php:16
+msgid "LSVR FAQ Categories"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-categories.php:17
+msgid "List of FAQ categories"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-categories.php:20
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:20
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:20
+msgid "Title:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:16
+msgid "LSVR Featured FAQ"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:25
+msgid "FAQ:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:43
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:58
+msgid "More Button Label:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:44
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:59
+msgid "Link to FAQ post archive. Leave blank to hide."
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:121
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:140
+#, php-format
+msgid "in %s"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-featured.php:134
+msgid "There are no FAQ posts"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:25
+msgid "Category:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:26
+msgid "Display FAQ posts only from a certain category."
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:29
+msgid "None"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:32
+msgid "Limit:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:33
+msgid "Number of FAQ posts to display."
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:39
+msgid "Order:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-faq-list.php:161
+msgid "There are no FAQ"
+msgstr ""
